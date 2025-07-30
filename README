@@ -1,1 +1,54 @@
-This source code is free to use for anyone wanting, i've managed to create this turtle program in my spare time when i first started learning python!
+# 🐢 Turtle Race Game
+
+This is the first Python program I ever built — a fun and visual **turtle race simulation** using Python's built-in `turtle` graphics and `random` libraries.
+
+🎮 Multiple turtles race across the screen, each moving forward randomly.  
+The first turtle to cross the finish line wins!
+
+---
+
+## 🚀 How It Works
+
+- Multiple turtles are drawn on a graphical window.
+- Each turtle moves forward by a random number of pixels.
+- The race continues in a loop until one turtle reaches the finish line.
+- A winner is declared based on who gets there first.
+
+---
+
+## 🐍 Built With
+
+- Python 3.x
+- `turtle` (built-in GUI graphics library)
+- `random` (built-in Python library)
+
+---
+
+## 🖥️ Run It Locally
+
+1. Make sure Python is installed on your machine.
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/mody-18/Import-Turtle.git
+   cd Import-Turtle
+3. Run the script:
+  python turtle_race.py
+
+## 📸 Screenshot / Demo
+
+
+## 💡 What I Learned
+- Basics of Python syntax and structure
+
+- Using turtle for simple GUI-based animations
+
+- Randomized motion and game logic
+
+- Managing loops and conditions in a fun project
+
+## 👨‍💻 Author
+Modestas Riabovas
+📚 Final year Computer Science BSc student at the University of Leicester
+📧 Email: modestas.riabovas2@gmail.com
+🌐 Portfolio: mody-18.github.io
+🐙 GitHub: @mody-18
