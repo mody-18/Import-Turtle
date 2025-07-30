@@ -36,19 +36,25 @@ The first turtle to cross the finish line wins!
 
 ## 📸 Screenshot / Demo
 
+![Turtle Program Screenshot](https://raw.githubusercontent.com/mody-18/Import-Turtle/main/images/turtle_program_1.png)
+![Turtle Program Screenshot](https://raw.githubusercontent.com/mody-18/Import-Turtle/main/images/turtle_program_2.png)
+
+---
 
 ## 💡 What I Learned
-- Basics of Python syntax and structure
 
-- Using turtle for simple GUI-based animations
-
-- Randomized motion and game logic
-
+- Basics of Python syntax and structure  
+- Using `turtle` for simple GUI-based animations  
+- Randomized motion and game logic  
 - Managing loops and conditions in a fun project
 
+---
+
 ## 👨‍💻 Author
-Modestas Riabovas
-📚 Final year Computer Science BSc student at the University of Leicester
-📧 Email: modestas.riabovas2@gmail.com
-🌐 Portfolio: mody-18.github.io
-🐙 GitHub: @mody-18
+
+**Modestas Riabovas**  
+📚 Final year Computer Science BSc student at the University of Leicester  
+📧 Email: [modestas.riabovas2@gmail.com](mailto:modestas.riabovas2@gmail.com)  
+🌐 Portfolio: [mody-18.github.io](https://mody-18.github.io)  
+🐙 GitHub: [@mody-18](https://github.com/mody-18)
+
